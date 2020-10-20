@@ -17,7 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		C705924124CF133F00D7A8D4 /* ajayTask.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ajayTask.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		C705924124CF133F00D7A8D4 /* OnBoarding-Tutorial.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "OnBoarding-Tutorial.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		C705924424CF133F00D7A8D4 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		C705924624CF133F00D7A8D4 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		C705924824CF133F00D7A8D4 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -50,7 +50,7 @@
 		C705924224CF133F00D7A8D4 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				C705924124CF133F00D7A8D4 /* ajayTask.app */,
+				C705924124CF133F00D7A8D4 /* OnBoarding-Tutorial.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -73,9 +73,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		C705924024CF133F00D7A8D4 /* ajayTask */ = {
+		C705924024CF133F00D7A8D4 /* OnBoarding-Tutorial */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = C705925524CF134100D7A8D4 /* Build configuration list for PBXNativeTarget "ajayTask" */;
+			buildConfigurationList = C705925524CF134100D7A8D4 /* Build configuration list for PBXNativeTarget "OnBoarding-Tutorial" */;
 			buildPhases = (
 				C705923D24CF133F00D7A8D4 /* Sources */,
 				C705923E24CF133F00D7A8D4 /* Frameworks */,
@@ -85,9 +85,9 @@
 			);
 			dependencies = (
 			);
-			name = ajayTask;
+			name = "OnBoarding-Tutorial";
 			productName = ajayTask;
-			productReference = C705924124CF133F00D7A8D4 /* ajayTask.app */;
+			productReference = C705924124CF133F00D7A8D4 /* OnBoarding-Tutorial.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -105,7 +105,7 @@
 					};
 				};
 			};
-			buildConfigurationList = C705923C24CF133F00D7A8D4 /* Build configuration list for PBXProject "ajayTask" */;
+			buildConfigurationList = C705923C24CF133F00D7A8D4 /* Build configuration list for PBXProject "OnBoarding-Tutorial" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -118,7 +118,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				C705924024CF133F00D7A8D4 /* ajayTask */,
+				C705924024CF133F00D7A8D4 /* OnBoarding-Tutorial */,
 			);
 		};
 /* End PBXProject section */
@@ -323,7 +323,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		C705923C24CF133F00D7A8D4 /* Build configuration list for PBXProject "ajayTask" */ = {
+		C705923C24CF133F00D7A8D4 /* Build configuration list for PBXProject "OnBoarding-Tutorial" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				C705925324CF134100D7A8D4 /* Debug */,
@@ -332,7 +332,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		C705925524CF134100D7A8D4 /* Build configuration list for PBXNativeTarget "ajayTask" */ = {
+		C705925524CF134100D7A8D4 /* Build configuration list for PBXNativeTarget "OnBoarding-Tutorial" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				C705925624CF134100D7A8D4 /* Debug */,
